@@ -1,6 +1,11 @@
 # PDF_chatbot
 this is a chat bot in which u can upload PDF and can ask things about the contents in the PDF
 
+add the pdf in the same folder where u store the python source code
+and add the file name and api key in the code 
+
+
+
 Additional packages needed
 
 
